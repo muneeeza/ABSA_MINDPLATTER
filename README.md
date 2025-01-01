@@ -40,3 +40,7 @@ Install the necessary libraries:
     pip install nltk spacy vaderSentiment scikit-learn
 
 More detail in report. 
+
+## Contributors 
+- Hafsa Hafeez Siddiqui 
+- Aqsa Khan
